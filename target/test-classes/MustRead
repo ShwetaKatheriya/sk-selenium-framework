@@ -1,0 +1,9 @@
+Best Practices to follow:
+1- Never HardCode.
+2- Keep right things at the right place.
+3- Make the Framwork little robust
+Naming conventions to follow:
+1- CLass or Interface name: ShwetaKatheriya (Initials caps)
+2- Final Constant values: SHWETAKATHERIYA or SHWETA_KATHERIYA (All caps)
+3- Method name: shwetaKatheriya (CamelCasing)
+4- Package Name: shwetakatheriya (All small)
